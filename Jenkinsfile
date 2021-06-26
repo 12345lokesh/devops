@@ -14,7 +14,7 @@ pipeline {
         }
 		stage('test') {
             steps {
-                echo 'Hello test'
+                echo 'Hello anything sample help normal ga cheparu'
             }
         }
     }
